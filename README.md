@@ -65,7 +65,7 @@ pip install numpy
 
 Las imágenes de la carpeta `Empleados` no se incluyen en este repositorio para proteger la privacidad de las personas utilizadas durante las pruebas.
 
-Para ejecutar el proyecto, agrega tus propias imágenes dentro de la carpeta `Empleados`.
+Para ejecutar el proyecto, crea una carpeta con nombre `Empleados` y agrega tus propias imágenes dentro de la carpeta.
 
 ---
 
